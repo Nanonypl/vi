@@ -1,5 +1,3 @@
-# vi
-
 Command	Description
 - git init	Initialize a local Git repository
 - git clone repo_url	Clone public repository
