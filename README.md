@@ -45,6 +45,8 @@ Command	Description
 - echo - display a line of text
 - cat - concatenate files and print on the standard output
 - cd - change the working directory
+- cp - copy
+- su - switch user
 
 - git add
 - git commit
