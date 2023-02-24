@@ -49,5 +49,5 @@ Command	Description
 - su - switch user
 
 - git add
-- git commit
+- git commit -m "formatting"
 - git push
