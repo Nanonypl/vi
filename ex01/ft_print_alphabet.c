@@ -7,7 +7,7 @@ int main(void) {
 }
 
 void ft_print_alphabet(void) {
-    char c = 'a' 
+    char c = 'a'; 
     do {
         write(1, &c, 1);
         c++;
