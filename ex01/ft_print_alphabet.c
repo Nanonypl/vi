@@ -7,7 +7,9 @@ int main(void) {
 }
 
 void ft_print_alphabet(void) {
-    for (char c = 'a'; c <= 'z'; c++) {
+    char c = 'a' 
+    do {
         write(1, &c, 1);
-    }   
+        c++;
+    } while (c <= 'z');
 }
